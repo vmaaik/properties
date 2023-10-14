@@ -4,4 +4,4 @@ flask~=2.3.3
 geopy>=2.3.0
 folium~=0.14.0
 beautifulsoup4~=4.12.2
-numpy>=1.25.1
+numpy>=1.26.0
